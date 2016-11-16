@@ -1,0 +1,979 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Student%20b8/Desktop/APK",
+    "path": "file:///C:/Users/Student b8/Desktop/New folder (2)/history",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "header1-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "",
+          "text": "TENTANG BOLA JARING<br><br>Peraturan<br><br>Gelanggang dan dimensi<br>Seperti bola keranjang, bola jaring dimainkan sama ada di gelanggang yang keras atau lembut dengan gelung atau \"rings\" pada kedua-dua hujung.<br><br>Gelanggang ini lebih besar berbanding dari gelanggang bola keranjang, menjadi 30.5 m panjang dan 15.25 m lebar. Garisan yang lebih panjang dikenali sebagai \"garisan sisi\" dan garisan lebih pendek dikenali sebagai \"garisan gol\" atau (base lines). Tanda-tanda gelanggang tidak lebih lebar daripada 50 mm. Gelanggang adalah terbahagi kepada tiga bahagian yang mengawal di mana setiap kedudukan individu yang dibenarkan bergerak.<br><br>Satu \"bulatan tengah\" berdiameter-90 cm adalah terletak di tengah gelanggang. Pada setiap hujung gelanggang terdapat \"shooting circle\" atau \"bulatan gol\" separuh bulat berjejari 4.9 m di mana semua jaringan gol mesti diambil di situ. Tiang gol adalah 3.05 m tinggi dari bahagian atas gelung sehingga ke lantai dan tidak mempunyai papan penghadang. Gelung mempunyai dimeter dalaman 380 mm dan terletak 150 mm dari tiang gol. dan diperbuat daripada besi berdiameter 15 mm. Kedua-dua ketinggian dan diameter bagi gelung adalah lebih kecil daripada gelung bola keranjang. Ia adalah berkemungkinan untuk bermain bola jaring menggunakan gelung bola keranjang tetapi jika terdapat mana-mana sentuhan antara bola dan papan hadang, bola itu adalah dianggap luar permainan. Jika satu gol dijaring dari papan penghadang ia tidak dikira. Beberapa versi peraturan membenarkan satu gol dijaringkan daripada satu lantunan papan penghadang jika pemain yang dapat menangkap bola tanpa terkena lantai.<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Gelanggang bola jaring.</span><br>Kedudukan<br>Terdapat tujuh pemain dalam setiap pasukan, yang diberi kedudukan yang ditetapkan (sesetengah variasi remaja/latihan hanya mempunyai lima pemain setiap pasukan.) Setiap pemain perlu memakai \"bib\" menunjukkan satu dari kedudukan di bawah, menunjukkan kedudukan pemain tersebut. Setiap pemain hanya dibenarkan di sudut tertentu di gelanggang: pemain yang terkeluar dari kedudukan mereka dianggap \"offside\". Kedudukan digambarkan di bawah:",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"UNGKU LEGACY.html\" data-toolbar=\"-mbrBtnMove\">NEXT<br></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#2969b0",
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
+            }
+          },
+          "_anchor": "content2-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "STRATEGI PERMAINAN<div>Beberapa strategi permainan perlu disusun bagi menentukan corak permainan dan strategi menjaring untuk mencapai kemenangan. Strategi yang digunakan adalah khusus untuk memperdaya pasukan lawan semasa bertahan, menyerang mahupun semasa membuat jaringan. Pasukan tersebut akan dapat bermain dengan lebih cemerlang jika strategi mereka tidak dapat dikesan oleh pasukan lawan, terutamanya semasa membuat hantaran tengah, hantaran ke dalam atau lambungan. Strategi ini diperlu ditekankan dengan bersungguh-sungguh supaya pemain dapat memahami serta mengaplikasikannya dalam permainan yang sebenar. Latihan intensif diperlukan untuk membiasakan pemain-pemain dengan strategi yang dirancang. Jika tidak, strategi ini tidak akan dapat dilaksanakan dengan berkesan.</div><div><br></div><div>4.9.1 Strategi Untuk Hantaran Tengah</div><div>Strategi I Perhatikan rajah kedudukan pemain di bawah. Latihan strategi seperti ini bermula dari pemain tengah C. Pemain C membaling bola kepada WD untuk hantaran pertama sebaik sahaja pengadil meniupkan wisel. WD pula akan cuba menghantar bola kepada WA yang sedang berada dalam kawasan lawan. WA menghantar bola kepada GS untuk hantaran ketiga, dan akhir sekali GS membuat hantaran keempat kepada GA yang sudah pun berada dalam kawasan jaringan. Dengan demikian GA berpeluang membuat jaringan gol.</div><div><br></div><div>Rajah 4.12: Strategi daripada hantaran tengah</div><div><br></div><div>TOPIK 4 KEMAHIRAN ASAS BOLA JARING</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Melalui strategi ini, tiga atau empat hantaran bola diperlukan, bermula dengan hantaran tengah dan berakhir dengan hantaran penjaring gol. Yang penting ialah setiap pemain hendaklah cuba mencari ruang yang baik agar pemain pasukan lawan tidak dapat menghalangnya. Untuk itu, pemain-pemain perlu bergerak dengan lebih pantas.</span></div><div><br></div><div>4.9.2 Strategi Hantaran ke Dalam</div><div>Strategi ini bertujuan untuk menyerang dan juga bertahan. Ini bergantung kepada pasukan mana yang sedang menguasai bola. Apabila bola dikeluarkan oleh pasukan lawan melepasi kawasan belakang pasukan pertama, bola akan dilontar masuk oleh pasukan pertama. Di sinilah strategi pertama hantaran ke dalam bermula. Ini bererti pasukan yang bertahan akan bertindak sebagai penyerang untuk melaksanakan strategi ini. Kita dapat lihat bagaimana strategi ini dilaksanakan. Pemain GK akan memulakan gerakan dengan menghantar masuk bola kepada pemain GD. Kedudukan awal pemain GD, kini berubah kepada kedudukan GD2 (gerakan ini hendaklah pantas). Ini bererti pemain GD sudah melarikan diri daripada kawalan atau kedudukan awalnya. Pemain WD juga akan bergerak pantas dari WD1 ke WD2 untuk menerima hantaran daripada pemain GD. Apabila gerakan bola tiba kepada WD2, pasukan ini yang pada mulanya berada pada kedudukan bertahan akan bertukar sebagai pasukan menyerang.</div><div><br></div><div>4.9.3 Strategi Pertahanan</div><div>Pertahanan juga memerlukan strategi supaya setiap serangan pasukan lawan dapat dipatahkan dan setiap percubaan membuat jaringan dapat digagalkan. Ia juga bertujuan merampas bola sekali gus menukar kedudukan daripada posisi bertahan kepada menyerang. Bertahan bererti mengawal pasukan lawan. Pemain yang berpengalaman akan memilih bermacam-macam cara untuk membuat pertahanan yang baik, kerana jika pertahanan lemah atau tidak teratur, pihak lawan dengan mudahnya dapat membolosi barisan pertahanan untuk membuat serangan.</div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-a",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "assets/images/sea-games-netball-2-june-2015-1400x787-91.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "UNGKU LEGACY.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f28281"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-4",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/if-they-are-just-forgotten-memories-toy-metal-car-life-documentary-close-up-0817-daily-boutique-2000x1250-95.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "ANGGUN DIVA COLLECTION",
+          "text": "Adalah sebuah butik kecantikan yang beroperasi secara online .<br>Pelbagai produk kesihatan dan produk kecantikan yang boleh didapati di sini.&nbsp;<br><br>Antaranya :<br><br>~ Branded Handbag<br>~ Branded Wallet / Purse<br>~ Perfume&nbsp;<br>~ Branded Couple Watch<br>~ Lipstick&nbsp;<br>~ Produk Kosmetik&nbsp;<br>~ Produk Kesihatan Luaran dan Dalaman&nbsp;<br>~ Produk Kecantikan&nbsp;<br>~ Detox Tea&nbsp;<br>~ Minyak Belacak&nbsp;<br>~ Gambir Emas&nbsp;<br>~ Jamu &amp; Ubat Hormon&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">#teamanggundivacollection</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "color": "#2969b0"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header2-5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/il-fullxfull-2000x1454-71.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/screenshot-2016-11-16-08-59-16-1-1400x1402-7.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DETAIL:",
+          "text": "SITI NADHIRAH &nbsp;BT RAZALI&nbsp;<br>@ UNGKU DHIRA UNGKU RIZ<br><br>Butik ini mula beroperasi pada 14 June 2014 &nbsp;. Pada mulanya hanya beroperasi secara kecil kecilan , lama - kelamaan mendapat sambutan , maka terhasilah butik ini dan diberi nama komersilnya &nbsp; &nbsp; &nbsp; &nbsp; \"ANGGUN COLLECTION \"<br><br><br>Butik ini di bawah naungan dan bimbingan dari saya sendiri bersama rakan partner saya iaitu &nbsp;Fatin Hazri Sobli. Kami mula bekerja sama dalam menjalan kan perniagaan online ini sejak tahun 2012 . <br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Kami memiliki seramai &nbsp;3 orang Perunding Pemasaran , 1 orang Coordinator dan satu orang staff sebagai &nbsp;Pegawai Pemasaran .</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anggun Collection kini mempunyai 2 cawangan iaitu di Kelantan dan di Seremban , Negeri Sembilan .<br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#faaf40"
+            }
+          },
+          "_anchor": "header4-6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "assets/images/191551452-2000x2828-76.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "BIODATA PENGURUS&nbsp;",
+          "text": "Siti Nadhirah Bt Razali&nbsp;<br>Komersil &nbsp;@Ungku Dhira Ungku Riz<br>22 Tahun <br>Berasal dari Negeri Sembilan <br>Menetap di Seremban , Negeri Sembilan .<br>Tarikh Lahir 14 / 06 / 1994<br>Pengalaman Pekerjaan :<br>1. Asst .Coordinator @Klana Resort Seremban<br>2. Chief Butler @ Avilion Port Dickson <br>3. Pembantu Pemasaran <br>4. Pengurus 'ANGGUN COLLECTION \" sehingga kini .&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">#teamangguncollection</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-8",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "assets/images/rak-lemari-tas-minimalis-modern-002-600x480-39.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Ruangan HANDBAG&nbsp;",
+          "subtitle1": "",
+          "caption1": "Kami menjual pelbagai jenis jenama handbag / wallet / slingbag &amp; purse . Antaranya Micheal Kors , Prada , Louis Vuittion , Longchamp , Play NO more dan banyak lagi . Gred terdiri dari 3A hingga yang Original Item .&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "assets/images/izeara-body-talk-extra-booster-2-600x337-6.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Ruangan PRODUK KESIHATAN",
+          "subtitle2": "",
+          "caption2": "Pelbagai jenis Produk Kesihatan yang dapat diperoleh disini. Antaranya , Produk penjagaan kulit wajah , set berpantang , produk minuman untuk kesihatan tubuh badan , awet muda dan sebagainya. Pastinya harga berbaloi dengan barang yang anda inginkan.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "assets/images/superdry-watches-600x383-93.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Ruangan JAM TANGAN&nbsp;",
+          "subtitle3": "",
+          "caption3": "Antara koleksi jenama yang ada , Tissot , Puma , G Shock &amp; lain-lain. Harga dijual mengikut GRED serta kualiti jam tangan tersebut . Juga menyediakan Jam yang dijual secara combo dan sesuai untuk dijadikan hantaran / hadiah.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "assets/images/makeup-vanity-600x398-57.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Ruangan KOSMETIK&nbsp;",
+          "subtitle4": "",
+          "caption4": "Pelbagai barng kosmetik yang boleh diperolehi disini. Antaranya alat solekan, brush make uo , lipstik serta foundation . Pelanggan boleh mendapatkan harga serendahnya dengan pembelian borong ,",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "H3": {
+              "color": "#553982",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-h",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/testimoni-review-tati-skincare-alpha-arbutin-7-1400x2488-98.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI&nbsp;<br>#penggunatatiskincare&nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-i",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/11817130-128673770805986-842501811160138773-n-1400x1400-68.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI<br>#penggunatatiskincare&nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-j",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/testimoni-zpsa9e2e2df-1400x2483-13.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI<br>#penggunaminyakbelacak&nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-k",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#a38f84",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/11326989-955403991172522-1423937077-n-1400x1400-71.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI&nbsp;<br>#handbagoriginal",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-l",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/12317568-420575864814695-1629508907-n-1400x1400-57.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI<br>#handbagMk",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-m",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/blogger-image-1879742140-1400x1400-97.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TESTIMONI&nbsp;<br>@handbagLVORIGINAL",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-p",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "",
+          "form": {
+            "action": "dhirasyuk537@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Miss Dhira @Ungku dhira Ungku Riz"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "dhirasyuk537@gmail.com"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "013-6455810 & 017-2871167"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": ""
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-r",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/edited-fb-img-1475482675110-1400x1866-89.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "owner&nbsp;",
+          "text": "WHATAPP : &nbsp;013 - 6455810 / 017-2871167<br>WECHAT : nadhirah539<br>FBACEBOOK : &nbsp;Ungku Dhira Ungku Riz<br>INSTAGRAM : Official Ungku Dhira Ungku Riz<br>PAGE : &nbsp;#teamangguncollection&nbsp;<br>www.teamanggundivacollection.com",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
